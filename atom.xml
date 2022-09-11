@@ -6,7 +6,7 @@
   <link href="https://lucas-hao.github.io/hexo_en/atom.xml" rel="self"/>
   
   <link href="https://lucas-hao.github.io/hexo_en/"/>
-  <updated>2022-09-11T03:09:20.326Z</updated>
+  <updated>2022-09-11T12:32:13.336Z</updated>
   <id>https://lucas-hao.github.io/hexo_en/</id>
   
   <author>
@@ -17,17 +17,79 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Introduction to my English Website</title>
-    <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/introduction-to-my-english-website/"/>
-    <id>https://lucas-hao.github.io/hexo_en/2022/09/11/introduction-to-my-english-website/</id>
+    <title>Music Synthesizer Game in Supercollider</title>
+    <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/music-synthesizer-game-in-supercollider/"/>
+    <id>https://lucas-hao.github.io/hexo_en/2022/09/11/music-synthesizer-game-in-supercollider/</id>
+    <published>2022-09-11T12:15:56.000Z</published>
+    <updated>2022-09-11T12:32:13.336Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;A music synthesizer game made by my partner and I with Supercollider in our &lt;em&gt;Introduction to Computer Music&lt;/em&gt; Course. We made</summary>
+        
+      
+    
+    
+    
+    <category term="Project" scheme="https://lucas-hao.github.io/hexo_en/categories/Project/"/>
+    
+    
+    <category term="Project" scheme="https://lucas-hao.github.io/hexo_en/tags/Project/"/>
+    
+    <category term="Computer Music" scheme="https://lucas-hao.github.io/hexo_en/tags/Computer-Music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Path Tracing Project</title>
+    <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/path-tracing-project/"/>
+    <id>https://lucas-hao.github.io/hexo_en/2022/09/11/path-tracing-project/</id>
+    <published>2022-09-11T12:06:05.000Z</published>
+    <updated>2022-09-11T12:32:07.847Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This is an assignment in the open course &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Project" scheme="https://lucas-hao.github.io/hexo_en/categories/Project/"/>
+    
+    
+    <category term="Rendering" scheme="https://lucas-hao.github.io/hexo_en/tags/Rendering/"/>
+    
+    <category term="Project" scheme="https://lucas-hao.github.io/hexo_en/tags/Project/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My first English blog</title>
+    <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/a-first-blog/"/>
+    <id>https://lucas-hao.github.io/hexo_en/2022/09/11/a-first-blog/</id>
     <published>2022-09-11T03:09:20.000Z</published>
-    <updated>2022-09-11T03:09:20.326Z</updated>
+    <updated>2022-09-11T10:50:22.448Z</updated>
     
     
-    <summary type="html">&lt;p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This is my first English blog post. I would like to share with you my works and learning experiences in this website in the</summary>
+        
+      
     
     
     
+    
+    <category term="Personal" scheme="https://lucas-hao.github.io/hexo_en/tags/Personal/"/>
     
   </entry>
   

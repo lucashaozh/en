@@ -4,13 +4,73 @@
   
     
     <entry>
-      <title>Introduction to my English Website</title>
-      <link href="/hexo_en/2022/09/11/introduction-to-my-english-website/"/>
-      <url>/hexo_en/2022/09/11/introduction-to-my-english-website/</url>
+      <title>Music Synthesizer Game in Supercollider</title>
+      <link href="/hexo_en/2022/09/11/music-synthesizer-game-in-supercollider/"/>
+      <url>/hexo_en/2022/09/11/music-synthesizer-game-in-supercollider/</url>
       
-        <content type="html"><![CDATA[<p><span id="more"></span></p>]]></content>
+        <content type="html"><![CDATA[<p>A music synthesizer game made by my partner and I with Supercollider in our <em>Introduction to Computer Music</em> Course. We made three different main melodies and 16 individual short sound pieces. Players can click on the buttons to add the sound pieces to the music timeline to simply produces their own songs.</p><figure><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/image-20220911191106140.png" alt="Music Synthesizer Game" /><figcaption aria-hidden="true">Music Synthesizer Game</figcaption></figure>]]></content>
       
       
+      <categories>
+          
+          <category> Project </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Project </tag>
+            
+            <tag> Computer Music </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Path Tracing Project</title>
+      <link href="/hexo_en/2022/09/11/path-tracing-project/"/>
+      <url>/hexo_en/2022/09/11/path-tracing-project/</url>
+      
+        <content type="html"><![CDATA[<p>This is an assignment in the open course <a href="%5BGAMES101:%20现代计算机图形学入门%20(ucsb.edu)%5D(https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)">Games 101</a> taught by Prof. Yan Linqi. In this project, I implemented the basic Path Tracing Algorithm. Here is the result of the program.</p><figure><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/binary.jpg" alt="path tracing" /><figcaption aria-hidden="true">path tracing</figcaption></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Project </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Rendering </tag>
+            
+            <tag> Project </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My first English blog</title>
+      <link href="/hexo_en/2022/09/11/a-first-blog/"/>
+      <url>/hexo_en/2022/09/11/a-first-blog/</url>
+      
+        <content type="html"><![CDATA[<p>This is my first English blog post. I would like to share with you my works and learning experiences in this website in the future.</p><p>I am excited about computer graphcis and game making. Besides, I am also a fan of Janpanese animes. You can know more about me in <strong><a href="https://lucas-hao.github.io/hexo_en/about/">ABOUT ME</a></strong>. You can also find contact information there.</p><p>Here is some projects I have done in class or during my spare time <strong><a href="https://lucas-hao.github.io/hexo_en/portfolio/">PORTFOLIO</a></strong>.</p><p>Thank you for visiting my website!</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Personal </tag>
+            
+        </tags>
       
     </entry>
     
