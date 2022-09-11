@@ -2931,14 +2931,14 @@ mjx-container[display='true'] + br {
   }
 }
 body {
-  background-image: url("/images/body-light.jpg");
+  background-image: url("/hexo_en/images/body-light.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
   background-size: 100% 100%;
 }
 body.darkmode--activated {
-  background-image: url("/images/body-dark.jpg");
+  background-image: url("/hexo_en/images/body-dark.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50%, 50%;
