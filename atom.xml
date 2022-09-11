@@ -3,11 +3,11 @@
   <title>Lucas&#39;s Blog</title>
   
   <subtitle>Game Developer | CUHK Undergraduate</subtitle>
-  <link href="https://lucas-hao.github.io/atom.xml" rel="self"/>
+  <link href="https://lucas-hao.github.io/hexo_en/atom.xml" rel="self"/>
   
-  <link href="https://lucas-hao.github.io/"/>
+  <link href="https://lucas-hao.github.io/hexo_en/"/>
   <updated>2022-09-11T03:09:20.326Z</updated>
-  <id>https://lucas-hao.github.io/</id>
+  <id>https://lucas-hao.github.io/hexo_en/</id>
   
   <author>
     <name>Lucas Hao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Introduction to my English Website</title>
-    <link href="https://lucas-hao.github.io/2022/09/11/introduction-to-my-english-website/"/>
-    <id>https://lucas-hao.github.io/2022/09/11/introduction-to-my-english-website/</id>
+    <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/introduction-to-my-english-website/"/>
+    <id>https://lucas-hao.github.io/hexo_en/2022/09/11/introduction-to-my-english-website/</id>
     <published>2022-09-11T03:09:20.000Z</published>
     <updated>2022-09-11T03:09:20.326Z</updated>
     
