@@ -31,11 +31,11 @@
     
     
     <entry>
-      <title>Path Tracing Project</title>
-      <link href="/hexo_en/2022/09/11/path-tracing-project/"/>
-      <url>/hexo_en/2022/09/11/path-tracing-project/</url>
+      <title>Ray tracing renderer</title>
+      <link href="/hexo_en/2022/09/11/ray-tracing-renderer/"/>
+      <url>/hexo_en/2022/09/11/ray-tracing-renderer/</url>
       
-        <content type="html"><![CDATA[<p>This is an assignment in the open course <a href="%5BGAMES101:%20现代计算机图形学入门%20(ucsb.edu)%5D(https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)">Games 101</a> taught by Prof. Yan Linqi. In this project, I implemented the basic Path Tracing Algorithm. Here is the result of the program.</p><figure><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/binary.jpg" alt="path tracing" /><figcaption aria-hidden="true">path tracing</figcaption></figure>]]></content>
+        <content type="html"><![CDATA[<p>In this project, I implemented two ray tracing renderer including witted-style ray tracing and path tracing. This project is based on the open course <a href="https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html">GAMES101</a> assignments. Github Link</p><p>In witted-style ray tracing, I completed the Moller Trumbore Algorithm for ray-triangle intersection and the witted-style ray tracing algorithm. The following figure is the rendering result.</p><p><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/output.jpg" /></p><p>In the path tracing renderer, I implemented the BVH algorithm to accelerate the rendering. Path tracing applied the physical based material to achieve a more realistic effect. I implemented the path tracing algorithm with Monte Carlo Integration. The following figure is the path tracing rendering output picture.</p><figure><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/output-128.jpg" alt="Path Tracing" /><figcaption aria-hidden="true">Path Tracing</figcaption></figure>]]></content>
       
       
       <categories>
@@ -50,6 +50,33 @@
             <tag> Rendering </tag>
             
             <tag> Project </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>World Generation Adventure Game</title>
+      <link href="/hexo_en/2022/09/11/world-generation-game/"/>
+      <url>/hexo_en/2022/09/11/world-generation-game/</url>
+      
+        <content type="html"><![CDATA[<p>This project a simple adventure game. In this game, players can give a random number and the program will automatically generate a random map (every random seed will lead to different game maps). In these maps, there are doors, lights, rooms and corridors. Players can open or close the door, turn on or turn off the light. Players can win the game if they successfully close all the doors. The code is in the github repository <a href="https://github.com/Lucas-hao/World-Generation-Game">Lucas-hao/World-Generation-Game</a>. The following video is a simple demo of the project.</p><figure><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/image-20221007224300841.png" alt="image-20221007224300841" /><figcaption aria-hidden="true">image-20221007224300841</figcaption></figure><iframe height="500" src="https://www.youtube.com/embed/Z95YpaLSw_o?autoplay=1&amp;mute=1"></iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> Project </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Project </tag>
+            
+            <tag> Game </tag>
             
         </tags>
       
