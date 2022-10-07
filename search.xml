@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> Project </tag>
-            
             <tag> Computer Music </tag>
+            
+            <tag> Project </tag>
             
         </tags>
       
@@ -47,9 +47,9 @@
       
         <tags>
             
-            <tag> Rendering </tag>
-            
             <tag> Project </tag>
+            
+            <tag> Rendering </tag>
             
         </tags>
       
@@ -62,7 +62,7 @@
       <link href="/hexo_en/2022/09/11/world-generation-game/"/>
       <url>/hexo_en/2022/09/11/world-generation-game/</url>
       
-        <content type="html"><![CDATA[<p>This project a simple adventure game. In this game, players can give a random number and the program will automatically generate a random map (every random seed will lead to different game maps). In these maps, there are doors, lights, rooms and corridors. Players can open or close the door, turn on or turn off the light. Players can win the game if they successfully close all the doors. The code is in the github repository <a href="https://github.com/Lucas-hao/World-Generation-Game">Lucas-hao/World-Generation-Game</a>. The following video is a simple demo of the project.</p><figure><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/image-20221007224300841.png" alt="image-20221007224300841" /><figcaption aria-hidden="true">image-20221007224300841</figcaption></figure><iframe height="500" src="https://www.youtube.com/embed/Z95YpaLSw_o?autoplay=1&amp;mute=1"></iframe>]]></content>
+        <content type="html"><![CDATA[<p>This project a simple adventure game. In this game, players can give a random number and the program will automatically generate a random map (every random seed will lead to different game maps). In these maps, there are doors, lights, rooms and corridors. Players can open or close the door, turn on or turn off the light. Players can win the game if they successfully close all the doors. The code is in the github repository <a href="https://github.com/Lucas-hao/World-Generation-Game">Lucas-hao/World-Generation-Game</a>. The following video is a simple demo of the project.</p><p><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/image-20221007224300841.png" /></p><iframe src="https://www.youtube.com/embed/Z95YpaLSw_o?autoplay=1&amp;mute=1"></iframe>]]></content>
       
       
       <categories>
