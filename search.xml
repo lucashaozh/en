@@ -4,6 +4,62 @@
   
     
     <entry>
+      <title>SunnyWeather</title>
+      <link href="/hexo_en/2022/10/28/sunnyweather/"/>
+      <url>/hexo_en/2022/10/28/sunnyweather/</url>
+      
+        <content type="html"><![CDATA[<p>This android weather application is a android learning project followed by <em>Android: The first line of code</em>. The application is written in Kotlin and designed with MVVM architecture. It also applies material design and jetpack compose. In this application, you can search by city name, and the app will display the weather information to you. The following is the screenshots of the application. You can check the source code at <a href="https://github.com/Lucas-hao/SunnyWeather">Lucas-hao/SunnyWeather</a></p><table><tr><td><img src=https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/Screenshot_20221028_110923_lucashao.sunnyweather.android.jpg border=0></td><td><img src=https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/Screenshot_20221028_111549_lucashao.sunnyweather.android.jpg border=0></td><td><img src=https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/Screenshot_20221028_110944_lucashao.sunnyweather.android.jpg border=0></td></tr></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Project </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Project </tag>
+            
+            <tag> Android </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Space Adventure Game - OpenGL</title>
+      <link href="/hexo_en/2022/10/27/space-adventure-game/"/>
+      <url>/hexo_en/2022/10/27/space-adventure-game/</url>
+      
+        <content type="html"><![CDATA[<p>This game is implemented in OpenGL by myself from scratch. In this game, players can control the spacecraft to move around. There are three enemies wondering around to guard against others. When you are too near to them, they will change to the alarming mode and switch to the alarming texture. Here is a screenshot when you first enter the game.</p><p><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/image-20221027224054118.png" /></p><p>After crossing the enemies, you can see the planet with thousands of rocks orbiting around it. Our treasures are floating among the rocks. You need to collect these treasures by flying near them. After collecting the treasures, they will turn to normal rocks. When you successfully collected all the treasures, your spacecraft will turn gold, meaning you win the game in the end. The following image shows how it looks like.</p><p><img src="https://raw.githubusercontent.com/Lucas-hao/Picgo-Picture/master/img/image-20221027224108461.png" /></p><p>Moreover, there are a ui interface to adjust the parameters for cheating mode as well. Players can press the Tab key to change the mode. There are three modes. At first, you can move your mouse freely to click and drag on the ui buttons to change the parameters. With the first Tab, mouse movement can control the camera view rotation. You can use the keyboard to move around. With the second Tab, you are now in the game mode, where you cannot click on the UI interface but you can control the spacecraft now!</p><p>In the project, I implemented a bunch of features including normal mapping, skybox, instance rendering, UI interface, keyboard and mouse interaction and .etc.</p><p>Hope you enjoy my project, I will add more features and make it a more playable game in the end!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Project </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Project </tag>
+            
+            <tag> Game </tag>
+            
+            <tag> OpenGL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Music Synthesizer Game in Supercollider</title>
       <link href="/hexo_en/2022/09/11/music-synthesizer-game-in-supercollider/"/>
       <url>/hexo_en/2022/09/11/music-synthesizer-game-in-supercollider/</url>

@@ -6,7 +6,7 @@
   <link href="https://lucas-hao.github.io/hexo_en/atom.xml" rel="self"/>
   
   <link href="https://lucas-hao.github.io/hexo_en/"/>
-  <updated>2022-09-11T12:32:13.336Z</updated>
+  <updated>2022-10-28T03:57:46.977Z</updated>
   <id>https://lucas-hao.github.io/hexo_en/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SunnyWeather</title>
+    <link href="https://lucas-hao.github.io/hexo_en/2022/10/28/sunnyweather/"/>
+    <id>https://lucas-hao.github.io/hexo_en/2022/10/28/sunnyweather/</id>
+    <published>2022-10-28T03:28:13.000Z</published>
+    <updated>2022-10-28T03:57:46.977Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This android weather application is a android learning project followed by &lt;em&gt;Android: The first line of code&lt;/em&gt;. The application is</summary>
+        
+      
+    
+    
+    
+    <category term="Project" scheme="https://lucas-hao.github.io/hexo_en/categories/Project/"/>
+    
+    
+    <category term="Project" scheme="https://lucas-hao.github.io/hexo_en/tags/Project/"/>
+    
+    <category term="Android" scheme="https://lucas-hao.github.io/hexo_en/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Space Adventure Game - OpenGL</title>
+    <link href="https://lucas-hao.github.io/hexo_en/2022/10/27/space-adventure-game/"/>
+    <id>https://lucas-hao.github.io/hexo_en/2022/10/27/space-adventure-game/</id>
+    <published>2022-10-27T15:14:05.000Z</published>
+    <updated>2022-10-27T15:27:05.804Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This game is implemented in OpenGL by myself from scratch. In this game, players can control the spacecraft to move around. There are</summary>
+        
+      
+    
+    
+    
+    <category term="Project" scheme="https://lucas-hao.github.io/hexo_en/categories/Project/"/>
+    
+    
+    <category term="Project" scheme="https://lucas-hao.github.io/hexo_en/tags/Project/"/>
+    
+    <category term="Game" scheme="https://lucas-hao.github.io/hexo_en/tags/Game/"/>
+    
+    <category term="OpenGL" scheme="https://lucas-hao.github.io/hexo_en/tags/OpenGL/"/>
+    
+  </entry>
   
   <entry>
     <title>Music Synthesizer Game in Supercollider</title>
