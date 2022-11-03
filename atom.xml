@@ -48,7 +48,7 @@
     <link href="https://lucas-hao.github.io/hexo_en/2022/10/27/space-adventure-game/"/>
     <id>https://lucas-hao.github.io/hexo_en/2022/10/27/space-adventure-game/</id>
     <published>2022-10-27T15:14:05.000Z</published>
-    <updated>2022-10-27T15:27:05.804Z</updated>
+    <updated>2022-11-03T12:30:28.539Z</updated>
     
     
       
@@ -104,14 +104,14 @@
     <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/ray-tracing-renderer/"/>
     <id>https://lucas-hao.github.io/hexo_en/2022/09/11/ray-tracing-renderer/</id>
     <published>2022-09-11T12:06:05.000Z</published>
-    <updated>2022-10-07T14:43:44.902Z</updated>
+    <updated>2022-11-03T12:33:25.987Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;In this project, I implemented two ray tracing renderer including witted-style ray tracing and path tracing. This project is based on</summary>
+    <summary type="html">&lt;p&gt;In this project, I implemented two ray tracing renderers including witted-style ray tracing and Monte Carlo path tracing. This project</summary>
         
       
     
@@ -131,7 +131,7 @@
     <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/world-generation-game/"/>
     <id>https://lucas-hao.github.io/hexo_en/2022/09/11/world-generation-game/</id>
     <published>2022-09-11T12:06:05.000Z</published>
-    <updated>2022-10-07T17:05:03.940Z</updated>
+    <updated>2022-11-03T12:28:18.056Z</updated>
     
     
       
