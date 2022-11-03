@@ -2935,14 +2935,14 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
-  background-size: auto;
+  background-size: cover;
 }
 body.darkmode--activated {
   background-image: url("/hexo_en/images/body-dark.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50%, 50%;
-  background-size: auto;
+  background-size: cover;
 }
 .content-wrap {
   opacity: 0.9;
