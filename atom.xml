@@ -48,7 +48,7 @@
     <link href="https://lucas-hao.github.io/hexo_en/2022/10/27/space-adventure-game/"/>
     <id>https://lucas-hao.github.io/hexo_en/2022/10/27/space-adventure-game/</id>
     <published>2022-10-27T15:14:05.000Z</published>
-    <updated>2022-11-03T12:30:28.539Z</updated>
+    <updated>2022-11-15T03:01:43.886Z</updated>
     
     
       
@@ -77,14 +77,14 @@
     <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/music-synthesizer-game-in-supercollider/"/>
     <id>https://lucas-hao.github.io/hexo_en/2022/09/11/music-synthesizer-game-in-supercollider/</id>
     <published>2022-09-11T12:15:56.000Z</published>
-    <updated>2022-09-11T12:32:13.336Z</updated>
+    <updated>2022-11-15T03:15:30.908Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;A music synthesizer game made by my partner and I with Supercollider in our &lt;em&gt;Introduction to Computer Music&lt;/em&gt; Course. We made</summary>
+    <summary type="html">&lt;p&gt;A music synthesizer game made by my partner and I with Supercollider in our &lt;em&gt;Introduction to Computer Music&lt;/em&gt; Course. All the</summary>
         
       
     
@@ -131,14 +131,14 @@
     <link href="https://lucas-hao.github.io/hexo_en/2022/09/11/world-generation-game/"/>
     <id>https://lucas-hao.github.io/hexo_en/2022/09/11/world-generation-game/</id>
     <published>2022-09-11T12:06:05.000Z</published>
-    <updated>2022-11-03T12:28:18.056Z</updated>
+    <updated>2022-11-15T03:00:24.137Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;This project a simple adventure game. In this game, players can give a random number and the program will automatically generate a</summary>
+    <summary type="html">&lt;p&gt;In this game, players need to give a seed to initialize a world. The world is randomly generated with the seed and the world should be</summary>
         
       
     
