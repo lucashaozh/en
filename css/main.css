@@ -362,6 +362,14 @@ td {
   top: -5px;
   transform: rotate(-45deg);
 }
+pre code.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 1em
+}
+code.hljs {
+  padding: 3px 5px
+}
 /*
 
 Atom One Light by Daniel Gamage
@@ -381,52 +389,37 @@ hue-6:   #986801
 hue-6-2: #c18401
 
 */
-
 .hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
   color: #383a42;
-  background: #fafafa;
+  background: #fafafa
 }
-
 .hljs-comment,
 .hljs-quote {
   color: #a0a1a7;
-  font-style: italic;
+  font-style: italic
 }
-
 .hljs-doctag,
 .hljs-keyword,
 .hljs-formula {
-  color: #a626a4;
+  color: #a626a4
 }
-
 .hljs-section,
 .hljs-name,
 .hljs-selector-tag,
 .hljs-deletion,
 .hljs-subst {
-  color: #e45649;
+  color: #e45649
 }
-
 .hljs-literal {
-  color: #0184bb;
+  color: #0184bb
 }
-
 .hljs-string,
 .hljs-regexp,
 .hljs-addition,
 .hljs-attribute,
-.hljs-meta-string {
-  color: #50a14f;
+.hljs-meta .hljs-string {
+  color: #50a14f
 }
-
-.hljs-built_in,
-.hljs-class .hljs-title {
-  color: #c18401;
-}
-
 .hljs-attr,
 .hljs-variable,
 .hljs-template-variable,
@@ -435,30 +428,30 @@ hue-6-2: #c18401
 .hljs-selector-attr,
 .hljs-selector-pseudo,
 .hljs-number {
-  color: #986801;
+  color: #986801
 }
-
 .hljs-symbol,
 .hljs-bullet,
 .hljs-link,
 .hljs-meta,
 .hljs-selector-id,
 .hljs-title {
-  color: #4078f2;
+  color: #4078f2
 }
-
+.hljs-built_in,
+.hljs-title.class_,
+.hljs-class .hljs-title {
+  color: #c18401
+}
 .hljs-emphasis {
-  font-style: italic;
+  font-style: italic
 }
-
 .hljs-strong {
-  font-weight: bold;
+  font-weight: bold
 }
-
 .hljs-link {
-  text-decoration: underline;
+  text-decoration: underline
 }
-
 .highlight:hover .copy-btn,
 pre:hover .copy-btn {
   opacity: 1;
@@ -2955,4 +2948,115 @@ body.darkmode--activated {
 }
 .popup {
   opacity: 0.9;
+}
+.post-body .twentytwenty-container {
+  margin: auto;
+}
+.post-body .twentytwenty-container img {
+  margin-bottom: 0px;
+}
+.portfolio-container {
+  display: flex;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.portfolio-card-link {
+  width: calc(33.33% - 8px);
+  margin-bottom: 20px;
+  display: block;
+  color: inherit;
+  transition: all 0.3s ease;
+}
+.portfolio-card-link .portfolio-card {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.portfolio-card-link .portfolio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+.portfolio-card-link .portfolio-card .card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.portfolio-card-link .portfolio-card .card-content {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+.portfolio-card-link .portfolio-card .card-content h5 {
+  margin: 0 0 10px 0;
+  font-size: 1.2em;
+}
+.portfolio-card-link .portfolio-card .card-content p {
+  font-size: 0.9em;
+  color: #666;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+.portfolio-card-link .portfolio-card .card-content .card-tags {
+  display: flex;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 5px;
+  justify-content: flex-start;
+}
+.portfolio-card-link .portfolio-card .card-content .card-tag {
+  padding: 3px 8px;
+  border-radius: 16px;
+  font-size: 0.75em;
+  font-weight: bold;
+  color: #fff;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-rendering {
+  background-color: #5b9bd5;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-physics {
+  background-color: #70ad47;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-game {
+  background-color: #ed7d31;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-cpp {
+  background-color: #9b59b6;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-java {
+  background-color: #f1c40f;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-opengl {
+  background-color: #3498db;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-web {
+  background-color: #e67e22;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-ai {
+  background-color: #1abc9c;
+}
+.portfolio-card-link .portfolio-card .card-content .tag-mobile {
+  background-color: #e74c3c;
+}
+@media (max-width: 1200px) {
+  .portfolio-card-link {
+    width: calc(50% - 10px);
+  }
+}
+@media (max-width: 768px) {
+  .portfolio-card-link {
+    width: 100%;
+  }
+  .portfolio-card-link .portfolio-card .card-image {
+    height: 250px;
+  }
 }
