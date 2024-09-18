@@ -4,9 +4,9 @@ window.onload = function () {
     var switchLang = document.getElementsByClassName("menu-item menu-item-chinese")[0];
     switchLang.onclick = function () {
         var href = window.location.href;
-        var includesKeywords = href.includes("/about/") || href.includes("/tags/")|| href.includes("/categories/") || href.includes("/archives/");
+        var includesKeywords = href.includes("/en/about/") || href.includes("/en/tags/")|| href.includes("/en/categories/") || href.includes("/en/archives/");
         if (includesKeywords) {
-            window.location.href = href.replace('.top/en', '.top/');
+            window.location.href = href.replace('/en/', '/');
         }
         else {
             window.location.href = "https://lucashaozh.github.io";
