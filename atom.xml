@@ -6,7 +6,7 @@
   <link href="https://lucashaozh.github.io/en/atom.xml" rel="self"/>
   
   <link href="https://lucashaozh.github.io/en/"/>
-  <updated>2024-09-18T21:49:47.055Z</updated>
+  <updated>2024-09-22T14:29:33.901Z</updated>
   <id>https://lucashaozh.github.io/en/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Geometry Processing Project</title>
+    <link href="https://lucashaozh.github.io/en/2024/09/22/gamegraphics/geometryprocessingproject/"/>
+    <id>https://lucashaozh.github.io/en/2024/09/22/gamegraphics/geometryprocessingproject/</id>
+    <published>2024-09-22T14:09:00.000Z</published>
+    <updated>2024-09-22T14:29:33.901Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#implicit-surface-reconstruction&quot;&gt;Implicit Surface
+Reconstruction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#mesh-parameterization&quot;&gt;Mesh Parameterization&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#uniform-and-cotangent-laplacian&quot;&gt;Uniform and cotangent
+Laplacian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lscm&quot;&gt;LSCM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#arap&quot;&gt;ARAP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#shape-deformation&quot;&gt;Shape Deformation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#skinning-and-skeletal-animation&quot;&gt;Skinning and Skeletal
+Animation&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#rotation-representation&quot;&gt;Rotation Representation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#harmonic-skinning-weights-on-selected-handles&quot;&gt;Harmonic
+skinning weights on selected handles&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#handle-selection&quot;&gt;Handle selection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#skinning-weights-visualization&quot;&gt;Skinning weights
+visualization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#skeletal-animation&quot;&gt;Skeletal animation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#context-aware-per-vertex-lbs&quot;&gt;Context-aware per-vertex
+LBS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;</summary>
+    
+    
+    
+    <category term="GameGraphics" scheme="https://lucashaozh.github.io/en/categories/GameGraphics/"/>
+    
+    
+    <category term="Graphics" scheme="https://lucashaozh.github.io/en/tags/Graphics/"/>
+    
+    <category term="Project" scheme="https://lucashaozh.github.io/en/tags/Project/"/>
+    
+  </entry>
   
   <entry>
     <title>Ray Tracing Renderer (Course Project)</title>
