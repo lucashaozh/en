@@ -3047,6 +3047,9 @@ body.darkmode--activated {
 .portfolio-card-link .portfolio-card .card-content .tag-mobile {
   background-color: #e74c3c;
 }
+.portfolio-card-link .portfolio-card .card-content .tag-python {
+  background-color: #306998;
+}
 @media (max-width: 1200px) {
   .portfolio-card-link {
     width: calc(50% - 10px);
